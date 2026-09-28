@@ -1,0 +1,11 @@
+commit 13fca2ce2997e787e204aa11e40ecc49bcc9447b (HEAD -> master)
+Author: Денис Васильев <den4ikworking@gmail.com>
+Date:   Mon Sep 28 11:00:05 2026 +0300
+
+    Второй коммит с изменениями
+
+commit 453c18f61cb19cd6fd30b9ed08151e65d6f248c4
+Author: Денис Васильев <den4ikworking@gmail.com>
+Date:   Mon Sep 28 10:58:47 2026 +0300
+
+    Первый коммит во втором репозитории
